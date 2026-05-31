@@ -4,4 +4,4 @@ This project presents a novel Multi-Agent Framework that bridges the gap between
 <img width="2003" height="1181" alt="image" src="https://github.com/user-attachments/assets/74162161-ef8b-4f95-ba90-014f501921c2" />
 
 如果你认为这个项目有所帮助，请引用一下这篇文章：
-Liu, Deli and Zhou, Xiaoping and Li, Yu, Balancing Comfort and Cost: A Multi-Agent Framework for Human-Centric Building Energy Management via Large Language Models. Available at SSRN: https://ssrn.com/abstract=6080813
+Liu, Deli and Zhou, Xiaoping and Li, Yu, Balancing Comfort and Cost: A Multi-Agent Framework for Human-Centric Building Energy Management via Large Language Models.10.1016/j.enbuild.2026.117684
